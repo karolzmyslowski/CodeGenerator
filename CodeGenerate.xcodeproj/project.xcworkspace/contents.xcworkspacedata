@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:QRGenerate.xcodeproj">
+      location = "self:/Users/karolzmyslowski/Desktop/QRGenerate/CodeGenerate.xcodeproj">
    </FileRef>
 </Workspace>

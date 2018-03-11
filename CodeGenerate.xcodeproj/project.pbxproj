@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7F4AEE052055B5BA004D7C6C /* QRGenerate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QRGenerate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F4AEE052055B5BA004D7C6C /* CodeGenerate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodeGenerate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F4AEE082055B5BA004D7C6C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7F4AEE0A2055B5BA004D7C6C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7F4AEE0D2055B5BA004D7C6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		7F4AEE062055B5BA004D7C6C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7F4AEE052055B5BA004D7C6C /* QRGenerate.app */,
+				7F4AEE052055B5BA004D7C6C /* CodeGenerate.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7F4AEE042055B5BA004D7C6C /* QRGenerate */ = {
+		7F4AEE042055B5BA004D7C6C /* CodeGenerate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7F4AEE172055B5BA004D7C6C /* Build configuration list for PBXNativeTarget "QRGenerate" */;
+			buildConfigurationList = 7F4AEE172055B5BA004D7C6C /* Build configuration list for PBXNativeTarget "CodeGenerate" */;
 			buildPhases = (
 				7F4AEE012055B5BA004D7C6C /* Sources */,
 				7F4AEE022055B5BA004D7C6C /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = QRGenerate;
+			name = CodeGenerate;
 			productName = QRGenerate;
-			productReference = 7F4AEE052055B5BA004D7C6C /* QRGenerate.app */;
+			productReference = 7F4AEE052055B5BA004D7C6C /* CodeGenerate.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7F4AEE002055B5BA004D7C6C /* Build configuration list for PBXProject "QRGenerate" */;
+			buildConfigurationList = 7F4AEE002055B5BA004D7C6C /* Build configuration list for PBXProject "CodeGenerate" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7F4AEE042055B5BA004D7C6C /* QRGenerate */,
+				7F4AEE042055B5BA004D7C6C /* CodeGenerate */,
 			);
 		};
 /* End PBXProject section */
@@ -303,7 +303,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7F4AEE002055B5BA004D7C6C /* Build configuration list for PBXProject "QRGenerate" */ = {
+		7F4AEE002055B5BA004D7C6C /* Build configuration list for PBXProject "CodeGenerate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7F4AEE152055B5BA004D7C6C /* Debug */,
@@ -312,7 +312,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7F4AEE172055B5BA004D7C6C /* Build configuration list for PBXNativeTarget "QRGenerate" */ = {
+		7F4AEE172055B5BA004D7C6C /* Build configuration list for PBXNativeTarget "CodeGenerate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7F4AEE182055B5BA004D7C6C /* Debug */,
